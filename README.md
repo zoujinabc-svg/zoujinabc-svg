@@ -22,6 +22,7 @@
 * **隐私安全：** 独家 **Session 注入/卡密激活** 技术，无需密码，隐私 0 风险。
 * **官方保证：** 拒绝低价“黑卡”。所有订阅均为官方正规采购，带完整质保。
 <img width="2232" height="1934" alt="image" src="https://github.com/user-attachments/assets/81902e2c-643f-49b8-9375-7df1b226a279" />
+<img width="2458" height="1654" alt="image" src="https://github.com/user-attachments/assets/c404f5fb-1125-4604-9637-a23371eaeb64" />
 
 ---
 
